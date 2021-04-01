@@ -1,0 +1,4 @@
+Pipfile
+Pipfile.lock
+/droppshipping/db.sqlite3
+/droppshipping/.vscode
